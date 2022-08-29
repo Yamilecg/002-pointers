@@ -1,0 +1,8 @@
+C:/002-pointers yami/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/002-pointers yami/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/002-pointers yami/cmake-build-debug/lib/CMakeFiles/pointers.dir
+C:/002-pointers yami/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/002-pointers yami/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/002-pointers yami/cmake-build-debug/app/CMakeFiles/app.dir
+C:/002-pointers yami/cmake-build-debug/app/CMakeFiles/edit_cache.dir
+C:/002-pointers yami/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
